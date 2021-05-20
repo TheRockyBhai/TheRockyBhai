@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/im-the-mrx" target="blank">
-  <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="im-the-mrx" height="50" width="70" />
+  <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="im-the-mrx" height="50" width="100" />
   </a>
 <a href="https://instagram.com/im_the_mrx" target="blank">
   <img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="im_the_mrx" height="50" width="50" />
