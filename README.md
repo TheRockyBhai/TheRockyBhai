@@ -20,13 +20,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/im-the-mrx" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="im-the-mrx" height="30" width="40" />
+  <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="im-the-mrx" height="30" width="40" />
   </a>
 <a href="https://instagram.com/im_the_mrx" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="im_the_mrx" height="30" width="40" />
+  <img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="im_the_mrx" height="30" width="40" />
   </a>
 <a href="https://discord.gg/2hHPDQ8y3e" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="2hHPDQ8y3e" height="30" width="40" />
+  <img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="2hHPDQ8y3e" height="30" width="40" />
   </a>
 </p>
 
