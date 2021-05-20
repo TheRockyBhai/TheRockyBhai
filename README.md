@@ -11,24 +11,23 @@
 
 - 🤝 I’m looking for help with [Plato Music](https://discord.gg/2hHPDQ8y3e)
 
-- 👨‍💻 All of my projects are available at [none atm](none atm)
-
-- 📝 I regularly write articles on [none atm](none atm)
-
 - 💬 Ask me about **nodejs, html, css, java, etc..**
 
 - 📫 How to reach me **My Discord Tag: </Mr.✘>#8002**
-
-- 📄 Know about my experiences [none atm](none atm)
 
 - ⚡ Fun fact **Im human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/im-the-mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="im-the-mrx" height="30" width="40" /></a>
-<a href="https://instagram.com/im_the_mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="im_the_mrx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/working on it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="working on it" height="30" width="40" /></a>
-<a href="https://discord.gg/2hHPDQ8y3e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="2hHPDQ8y3e" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/im-the-mrx" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="im-the-mrx" height="30" width="40" />
+  </a>
+<a href="https://instagram.com/im_the_mrx" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="im_the_mrx" height="30" width="40" />
+  </a>
+<a href="https://discord.gg/2hHPDQ8y3e" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="2hHPDQ8y3e" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
