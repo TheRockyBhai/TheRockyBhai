@@ -1,20 +1,44 @@
-### Heyy there, I am P.L.A.T.O, The P.A Of </Mr.X>. 
-Here Are Some Details Of </Mr.X>!
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="center">Hi 👋, I'm </Mr.X></h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-#### Skills: <br>
-#### 1. Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="25" />
-#### 2. Java <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="25" />
-#### 3. C# <img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="25" />
-#### 4. JavaScript <img src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png" width="25"/>
-#### 5. HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="25" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-the-mrx&label=Profile%20views&color=0e75b6&style=flat" alt="im-the-mrx" /> </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-the-mrx" alt="im-the-mrx" /></a> </p>
 
-#### Social Networks!
+- 🔭 I’m currently working on **Plato Music and PokeMania**
 
-### [<img src='https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png' alt='discord' height='40'> Discord (</Mr.✘>#8002 )](https://discord.com/channels/@me/819129738798956584)
-### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> Github (im-the-mrx)](https://github.com/im-the-mrx)
+- 🌱 I’m currently learning **Machine Learning**
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![My github stats](https://github-readme-stats.vercel.app/api?username=im-the-mrx&show_icons=true&theme=merko)
+- 👯 I’m looking to collaborate on [Plato Music](https://discord.gg/2hHPDQ8y3e)
+
+- 🤝 I’m looking for help with [Plato Music](https://discord.gg/2hHPDQ8y3e)
+
+- 👨‍💻 All of my projects are available at [none atm](none atm)
+
+- 📝 I regularly write articles on [none atm](none atm)
+
+- 💬 Ask me about **nodejs, html, css, java, etc..**
+
+- 📫 How to reach me **My Discord Tag: </Mr.✘>#8002**
+
+- 📄 Know about my experiences [none atm](none atm)
+
+- ⚡ Fun fact **Im human**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/im-the-mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="im-the-mrx" height="30" width="40" /></a>
+<a href="https://instagram.com/im_the_mrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="im_the_mrx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/working on it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="working on it" height="30" width="40" /></a>
+<a href="https://discord.gg/2hHPDQ8y3e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="2hHPDQ8y3e" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-the-mrx&show_icons=true&locale=en&layout=compact" alt="im-the-mrx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-the-mrx&show_icons=true&locale=en" alt="im-the-mrx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-the-mrx&" alt="im-the-mrx" /></p>
+
